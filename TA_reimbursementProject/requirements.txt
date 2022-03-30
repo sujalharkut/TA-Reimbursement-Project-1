@@ -82,7 +82,7 @@ lxml
 Markdown
 MarkupSafe
 matplotlib
-matplotlib-inlin
+matplotlib-inline
 mistun
 mypy-extension
 nbclassi
