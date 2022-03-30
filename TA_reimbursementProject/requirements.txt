@@ -83,7 +83,7 @@ Markdown
 MarkupSafe
 matplotlib
 matplotlib-inline
-mistun
+mistune
 mypy-extension
 nbclassi
 nbclien
